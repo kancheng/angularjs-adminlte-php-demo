@@ -1,0 +1,10 @@
+conf.php
+vendor
+uploads
+.idea/
+log
+*.swp
+composer.phar
+uploads
+sftp-config.json
+log
